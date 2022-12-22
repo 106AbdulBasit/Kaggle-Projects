@@ -1,4 +1,6 @@
+## Kaggle Projects
 
+This repository contains my Kaggle projects, which are a combination of Jupyter Notebooks and Python scripts.
 ### Project List
 
 | Project                                                                                                                   | Description                                                                                                                                                                                                                 |
